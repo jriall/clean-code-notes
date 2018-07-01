@@ -11,3 +11,5 @@ PDF - https://www.investigatii.md/uploads/resurse/Clean_Code.pdf
 [Chapter 1 - Introduction](https://github.com/jriall/clean-code-notes/blob/master/1-introduction.md)
 
 [Chapter 2 - Meaningful Names](https://github.com/jriall/clean-code-notes/blob/master/2-meaningful-names.md)
+
+[Chapter 3 - Functions](https://github.com/jriall/clean-code-notes/blob/master/3-functions.md)
